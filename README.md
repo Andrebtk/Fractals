@@ -3,7 +3,7 @@ Code that calculate and visualize in matplotlib different fractals : Dragon Curv
 
 
 
-# Exemple :
+# Example :
 ```bash
 python3 python3 levyCurve.py
 ```

@@ -13,6 +13,6 @@ python3 levyCurve.py
 ```bash
 python3 triangleSierpinski.py
 ```
-<img width="491" alt="Screenshot 2023-06-01 at 20 57 18" src="https://github.com/Andrebtk/Fractals/assets/53980377/7875179b-a028-4851-bc78-9323ea1d0c47">
+<img align="center" width="491" alt="Screenshot 2023-06-01 at 20 57 18" src="https://github.com/Andrebtk/Fractals/assets/53980377/7875179b-a028-4851-bc78-9323ea1d0c47">
 
 

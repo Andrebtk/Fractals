@@ -5,6 +5,14 @@ Code that calculate and visualize in matplotlib different fractals : Dragon Curv
 
 # Example :
 ```bash
-python3 python3 levyCurve.py
+python3 levyCurve.py
 ```
-![levyFull](https://github.com/Andrebtk/Fractals/assets/53980377/95b7de05-1675-498c-b833-cc8803adedb9 | width=100)
+![levyFull](https://github.com/Andrebtk/Fractals/assets/53980377/95b7de05-1675-498c-b833-cc8803adedb9)
+
+
+```bash
+python3 triangleSierpinski.py
+```
+<img width="491" alt="Screenshot 2023-06-01 at 20 57 18" src="https://github.com/Andrebtk/Fractals/assets/53980377/7875179b-a028-4851-bc78-9323ea1d0c47">
+
+

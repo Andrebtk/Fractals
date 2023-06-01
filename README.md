@@ -8,7 +8,8 @@ Code that calculate and visualize in matplotlib different fractals : Dragon Curv
 python3 fractals.py levyCurve
 ```
 <p align="center">
-  ![levy](https://github.com/Andrebtk/Fractals/assets/53980377/3bfd9123-01fb-4900-9b4a-74bf630617fd)
+  
+  ![levyFull](https://github.com/Andrebtk/Fractals/assets/53980377/eb9bc2d9-e53b-4c48-bd16-bce74de8085c)  
 </p>
 
 ```bash

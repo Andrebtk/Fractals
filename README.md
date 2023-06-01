@@ -2,6 +2,8 @@
 Code that calculate and visualize in matplotlib different fractals : Dragon Curve, Lévy C curve or the Sierpiński triangle.
 
 
+
+# Exemple :
 ```bash
 python3 python3 levyCurve.py
 ```

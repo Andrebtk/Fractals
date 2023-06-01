@@ -1,5 +1,5 @@
 # Fractals visualization
-Code that calculate and visualize in matplotlib different fractals : Dragon Curve, Lévy C curve or the Sierpiński triangle.
+Code that calculate and visualize in matplotlib different fractals(figure that exhibits self-similarity at different scales) : Dragon Curve, Lévy C curve or the Sierpiński triangle.
 
 
 
